@@ -6,10 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/sec1/code6-features-related-to-type-inference_ownership_error-handling-and-dangling-pointer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sec21-reference/ch1-macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sec21-reference/ch2-struct/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/sec1/code4-borrowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/sec1/code6-features-related-to-type-inference_ownership_error-handling-and-dangling-pointer/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/sec21-reference/ch1-macro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sec21-reference/ch2-struct/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
